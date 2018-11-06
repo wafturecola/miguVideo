@@ -1,0 +1,1533 @@
+{
+  "firstCode": {
+    "type":0,
+    "title": [
+      "精选", "CBA", "好身材", "热点", "电视剧", "电影", "咪咕/PP体育", "综艺", "G客号", "少儿", "动漫", "纪实", "音乐", "军事", "搞笑", "资讯", "娱乐", "社会", "生活", "热播", "游戏", "限免俱乐部", "直播", "红色视频"
+    ],
+    "banner": [
+      {
+        "type":7,
+        "title": "",
+        "imgSrc": "http://wapx.cmvideo.cn:8080/publish/clt/image/70/469/619.jpg"
+      },
+      {
+        "type":0,
+        "title": "CBA第三轮 广东138-111四川",
+        "imgSrc": "http://wapx.cmvideo.cn:8080/publish/clt/image/70/488/263.jpg"
+      },
+      {
+        "type":1,
+        "title": "撒贝宁重启毒舌模式 张若昀自诩单纯boy",
+        "imgSrc": "http://wapx.cmvideo.cn:8080/publish/clt/image/70/488/259.jpg"
+      },
+      {
+        "type":2,
+        "title": "强森惊魂营救家人 昆凌化身冷艳打女",
+        "imgSrc": "http://wapx.cmvideo.cn:8080/publish/clt/image/70/487/221.jpg"
+      },
+      {
+        "type":3,
+        "title": "",
+        "imgSrc": "http://wapx.cmvideo.cn:8080/publish/clt/image/70/478/37.jpg"
+      },
+      {
+        "type":4,
+        "title": "如此行走的荷尔蒙又怎能不心动？",
+        "imgSrc": "http://wapx.cmvideo.cn:8080/publish/clt/image/70/487/228.jpg"
+      },
+      {
+        "type":5,
+        "title": "傅恒尔晴秀土味情话 朱丽叶变性感猫公主",
+        "imgSrc": "http://wapx.cmvideo.cn:8080/publish/clt/image/70/487/256.jpg"
+      },
+      {
+        "type":6,
+        "title": "BBC摄影黑科技来袭！雪雁保命出奇招",
+        "imgSrc": "http://wapx.cmvideo.cn:8080/publish/clt/image/70/487/258.jpg"
+      },
+      {
+        "type":7,
+        "title": "",
+        "imgSrc": "http://wapx.cmvideo.cn:8080/publish/clt/image/70/469/619.jpg"
+      }
+
+    ],
+    "icon": [
+      {
+        "name":"0元领",
+        "advImg": "http://wapx.cmvideo.cn:8080/publish/clt/image/70/468/162.png"
+      },
+      {
+        "name":"CBA",
+        "advImg": "http://wapx.cmvideo.cn:8080/publish/clt/image/70/481/29.png"
+      },
+      {
+        "name":"每日领3G",
+        "advImg": "http://wapx.cmvideo.cn:8080/publish/clt/image/70/468/166.png"
+      },
+      {
+        "name":"每日限免",
+        "advImg": "http://wapx.cmvideo.cn:8080/publish/clt/image/70/468/164.png"
+      },
+      {
+        "name":"影院购票",
+        "advImg": "http://wapx.cmvideo.cn:8080/publish/clt/image/70/468/170.png"
+      },
+      {
+        "name":"TVB港剧",
+        "advImg": "http://wapx.cmvideo.cn:8080/publish/clt/image/70/468/172.png"
+      },
+      {
+        "name":"好身材",
+        "advImg": "http://wapx.cmvideo.cn:8080/publish/clt/image/70/468/168.png"
+      },
+      {
+        "name":"广州6:1北",
+        "advImg": "http://wapx.cmvideo.cn:8080/publish/clt/image/70/485/241.png"
+      }
+    ],
+    "pricing": [
+      "0元领30G流量，速抢！",
+      "5折购！VIP会员仅需10元/月！"
+    ],
+    "film": [
+      {
+        "title": "重磅推荐",
+        "more" : "速看·间谍前男友",
+        "msg": [
+          {
+            "id": 0,
+            "name": "反贪风暴3",
+            "description": "激烈！张智霖谭耀文街头对战",
+            "score": "8.8",
+            "tip": "VIP",
+            "pic": "http://wapx.cmvideo.cn:8080/publish/clt/image/70/487/896.gif",
+            "videoUrl": "http://wvideo.spriteapp.cn/video/2018/0725/4332bf7c8fd411e89a20842b2b4c75ab_wpd.mp4",
+            "detail": "故事讲述ICAC (廉政公署) 陆志廉（古天乐饰），JFIU (联合财富情报组) 刘保强（张智霖饰）分别侦查贪污及洗黑钱案，但苦无线索，这时廉政公署L组 (内部纪律调查组) 程德明（郑嘉颖饰）收到举报，指陆志廉收贿1200万，陆无法辩解实时停职。刘发现陆被诬陷，并跟一直调查的洗黑钱案有着千丝万缕关系，同时怀疑银行主任游子新（栢天男饰）协助罪恶集团洗黑钱；陆冒险搜集罪证却遭禁锢，命悬一线。",
+            "videoType": "犯罪",
+            "playTimes": "666.6",
+            "actors": [
+              {"name": "马思纯", "photo": "http://img.cmvideo.cn:8080/iworld/publish/meizi/star/images/0000/010/198/star_src_686535_450_600.jpg"},
+              {"name": "林更新", "photo": "http://img.cmvideo.cn:8080/iworld/publish/meizi/star/images/0000/009/503/star_src_688747_450_600.jpg"},
+              {"name": "赵又廷", "photo": "http://img.cmvideo.cn:8080/iworld/publish/meizi/star/images/0000/008/124/star_src_694606_450_600.jpg"},
+              {"name": "冯绍峰", "photo": "http://img.cmvideo.cn:8080/iworld/publish/meizi/star/images/0000/005/473/star_src_697498_450_600.jpg"}
+            ],
+            "recommend": [
+              {"playName":"反贪风暴3", "score": "8.8", "playImg": "http://wapx.cmvideo.cn:8080/publish/poms/image/5500/449/310/201810260001_0829173219_V23_720.webp"},
+              {"playName":"浴血十四年", "score": "6.5 ", "playImg": "http://wapx.cmvideo.cn:8080/publish/poms/image/5500/643/998/201810251128_3_V23_720.webp"},
+              {"playName":"你迟到的许多年", "score": "6.8", "playImg": "http://wapx.cmvideo.cn:8080/publish/poms/image/5500/613/585/201810212239_1_V23_720.webp"},
+              {"playName":"镰仓物语", "score": "9.2", "playImg": "http://wapx.cmvideo.cn:8080/publish/poms/image/5500/443/876/201810190001_lcwy_V23_720.webp"},
+              {"playName":"幕后玩家", "score": "7.8 ", "playImg": "http://wapx.cmvideo.cn:8080/publish/poms/image/5500/360/626/201808012227_mhwj_V23_720.webp"},
+              {"playName":"第一夫人", "score": "7.9 ", "playImg": "http://wapx.cmvideo.cn:8080/publish/poms/image/5500/087/516/201808301541_dyfr_V23_720.webp"}
+            ],
+            "ratings": [
+              {
+                "username": "3******c",
+                "rateTime": 1541001997,
+                "text": "有没有会员，借看一下",
+                "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png",
+                "good": "3",
+                "comment": [
+                  {"username": "2******3", "text": "没有"}
+                ]
+              },
+              {
+                "username": "2******3",
+                "rateTime": 1541001997,
+                "text": "超级期待了 ，最佳演员和最佳导演，强强联手",
+                "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png",
+                "good": "43",
+                "comment": [
+                  {"username": "3******c", "text": "我也觉得"},
+                  {"username": "6******h", "text": "一点都不好看"},
+                  {"username": "7******j", "text": "一般般吧，你说的太过了"}
+                ]
+              },
+              {
+                "username": "3******b",
+                "rateTime": 1541001997,
+                "text": "经典大剧，好看",
+                "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png",
+                "good": "1",
+                "comment": []
+              },
+              {
+                "username": "3******c",
+                "rateTime": 1541001997,
+                "rateType": 1,
+                "text": "一般般吧",
+                "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png",
+                "good": "1",
+                "comment": [
+                  {"username": "2******3", "text": "赞同"}
+                ]
+              },
+              {
+                "username": "2******3",
+                "rateTime": 1541001997,
+                "text": "很一般啊",
+                "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png",
+                "good": "6",
+                "comment": []
+              },
+              {
+                "username": "3******b",
+                "rateTime": 1469261964000,
+                "text": "还好还好，没有毁经典",
+                "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png",
+                "good": "10",
+                "comment": []
+              }
+            ]
+          },
+          {
+            "id": 1,
+            "name": "陈奕迅慈善音乐会",
+            "description": "10月27日18:00同步直播",
+            "score": "7.0",
+            "pic": "http://wapx.cmvideo.cn:8080/publish/clt/image/70/487/606.jpg",
+            "videoUrl": "http://wvideo.spriteapp.cn/video/2018/0824/5b7fb2191677f_wpd.mp4",
+            "detail": "陈奕迅慈善音乐会,众星群聚，粉丝疯狂",
+            "playTimes": "3453.6",
+            "recommend": [
+              {"playName":"反贪风暴3", "score": "8.8", "playImg": "http://wapx.cmvideo.cn:8080/publish/poms/image/5500/449/310/201810260001_0829173219_V23_720.webp"},
+              {"playName":"浴血十四年", "score": "6.5 ", "playImg": "http://wapx.cmvideo.cn:8080/publish/poms/image/5500/643/998/201810251128_3_V23_720.webp"},
+              {"playName":"你迟到的许多年", "score": "6.8", "playImg": "http://wapx.cmvideo.cn:8080/publish/poms/image/5500/613/585/201810212239_1_V23_720.webp"},
+              {"playName":"镰仓物语", "score": "9.2", "playImg": "http://wapx.cmvideo.cn:8080/publish/poms/image/5500/443/876/201810190001_lcwy_V23_720.webp"},
+              {"playName":"幕后玩家", "score": "7.8 ", "playImg": "http://wapx.cmvideo.cn:8080/publish/poms/image/5500/360/626/201808012227_mhwj_V23_720.webp"},
+              {"playName":"第一夫人", "score": "7.9 ", "playImg": "http://wapx.cmvideo.cn:8080/publish/poms/image/5500/087/516/201808301541_dyfr_V23_720.webp"}
+            ],
+            "ratings": [
+              {
+                "username": "3******c",
+                "rateTime": 1469281964000,
+                "text": "有没有会员，借看一下",
+                "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png",
+                "good": "3",
+                "comment": [
+                  {"username": "2******3", "text": "没有"}
+                ]
+              },
+              {
+                "username": "2******3",
+                "rateTime": 1469271264000,
+                "text": "陈奕迅最棒，你是我最爱的歌星",
+                "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png",
+                "good": "43",
+                "comment": [
+                  {"username": "3******c", "text": "我也觉得"},
+                  {"username": "6******h", "text": "一点都不好看"},
+                  {"username": "7******j", "text": "一般般吧，你说的太过了"}
+                ]
+              },
+              {
+                "username": "3******b",
+                "rateTime": 1469261964000,
+                "text": "歌好好听",
+                "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png",
+                "good": "1",
+                "comment": []
+              },
+              {
+                "username": "3******c",
+                "rateTime": 1469281964000,
+                "rateType": 1,
+                "text": "一般般吧",
+                "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png",
+                "good": "1",
+                "comment": [
+                  {"username": "2******3", "text": "赞同"}
+                ]
+              },
+              {
+                "username": "2******3",
+                "rateTime": 1469271264000,
+                "text": "很一般啊",
+                "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png",
+                "good": "6",
+                "comment": []
+              },
+              {
+                "username": "3******b",
+                "rateTime": 1469261964000,
+                "text": "还好还好，没有毁经典",
+                "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png",
+                "good": "10",
+                "comment": []
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "name": "亲爱的客栈2",
+            "description": "胡杏儿喜添多子成“新晋妈妈",
+            "updateEP": "更新至10-27",
+            "score": "8.2",
+            "tip": "VIP",
+            "pic": "http://wapx.cmvideo.cn:8080/publish/clt/image/70/487/313.jpg",
+            "videoUrl": "http://wvideo.spriteapp.cn/video/2018/0725/4332bf7c8fd411e89a20842b2b4c75ab_wpd.mp4",
+            "detail": "在最美的月份，与亲爱的你再相遇，在最好的时光，共同创造美好生活。亲爱的客栈第二季再次回归！",
+            "playTimes": "3453.6",
+            "recommend": [
+              {"playName":"反贪风暴3", "score": "8.8", "playImg": "http://wapx.cmvideo.cn:8080/publish/poms/image/5500/449/310/201810260001_0829173219_V23_720.webp"},
+              {"playName":"浴血十四年", "score": "6.5 ", "playImg": "http://wapx.cmvideo.cn:8080/publish/poms/image/5500/643/998/201810251128_3_V23_720.webp"},
+              {"playName":"你迟到的许多年", "score": "6.8", "playImg": "http://wapx.cmvideo.cn:8080/publish/poms/image/5500/613/585/201810212239_1_V23_720.webp"},
+              {"playName":"镰仓物语", "score": "9.2", "playImg": "http://wapx.cmvideo.cn:8080/publish/poms/image/5500/443/876/201810190001_lcwy_V23_720.webp"},
+              {"playName":"幕后玩家", "score": "7.8 ", "playImg": "http://wapx.cmvideo.cn:8080/publish/poms/image/5500/360/626/201808012227_mhwj_V23_720.webp"},
+              {"playName":"第一夫人", "score": "7.9 ", "playImg": "http://wapx.cmvideo.cn:8080/publish/poms/image/5500/087/516/201808301541_dyfr_V23_720.webp"}
+            ],
+            "ratings": [
+              {
+                "username": "3******c",
+                "rateTime": 1541001997,
+                "text": "鹿园好漂亮啊",
+                "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png",
+                "good": "3",
+                "comment": [
+                  {"username": "2******3", "text": "没有"}
+                ]
+              },
+              {
+                "username": "2******3",
+                "rateTime": 1541001997,
+                "text": "这个地方适合养老",
+                "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png",
+                "good": "43",
+                "comment": [
+                  {"username": "3******c", "text": "我也觉得"},
+                  {"username": "6******h", "text": "一点都不好看"},
+                  {"username": "7******j", "text": "一般般吧，你说的太过了"}
+                ]
+              },
+              {
+                "username": "3******b",
+                "rateTime": 1541001997,
+                "text": "好舒服的地方",
+                "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png",
+                "good": "1",
+                "comment": []
+              },
+              {
+                "username": "3******c",
+                "rateTime": 1541001997,
+                "rateType": 1,
+                "text": "一般般吧",
+                "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png",
+                "good": "1",
+                "comment": [
+                  {"username": "2******3", "text": "赞同"}
+                ]
+              },
+              {
+                "username": "2******3",
+                "rateTime": 1541001997,
+                "text": "很一般啊",
+                "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png",
+                "good": "6",
+                "comment": []
+              },
+              {
+                "username": "3******b",
+                "rateTime": 1541001997,
+                "text": "还好还好，没有毁经典",
+                "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png",
+                "good": "10",
+                "comment": []
+              }
+            ]
+          },
+          {
+            "id": 3,
+            "name": "加油好身材",
+            "description": "张绍刚疯狂炫“腹”笑喷众人",
+            "duration": "03:11",
+            "pic": "http://wapx.cmvideo.cn:8080/publish/clt/image/70/487/315.jpg",
+            "videoUrl": "http://wvideo.spriteapp.cn/video/2018/0824/5b7fb2191677f_wpd.mp4",
+            "detail": "“傲娇”张绍刚炫耀“离家的肚腩肉”，张逸杰碎片练习能否有收获？",
+            "playTimes": "3453.6",
+            "recommend": [
+              {"playName":"反贪风暴3", "score": "8.8", "playImg": "http://wapx.cmvideo.cn:8080/publish/poms/image/5500/449/310/201810260001_0829173219_V23_720.webp"},
+              {"playName":"浴血十四年", "score": "6.5 ", "playImg": "http://wapx.cmvideo.cn:8080/publish/poms/image/5500/643/998/201810251128_3_V23_720.webp"},
+              {"playName":"你迟到的许多年", "score": "6.8", "playImg": "http://wapx.cmvideo.cn:8080/publish/poms/image/5500/613/585/201810212239_1_V23_720.webp"},
+              {"playName":"镰仓物语", "score": "9.2", "playImg": "http://wapx.cmvideo.cn:8080/publish/poms/image/5500/443/876/201810190001_lcwy_V23_720.webp"},
+              {"playName":"幕后玩家", "score": "7.8 ", "playImg": "http://wapx.cmvideo.cn:8080/publish/poms/image/5500/360/626/201808012227_mhwj_V23_720.webp"},
+              {"playName":"第一夫人", "score": "7.9 ", "playImg": "http://wapx.cmvideo.cn:8080/publish/poms/image/5500/087/516/201808301541_dyfr_V23_720.webp"}
+            ],
+            "ratings": [
+              {
+                "username": "3******c",
+                "rateTime": 1541001997,
+                "text": "鹿园好漂亮啊",
+                "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png",
+                "good": "3",
+                "comment": [
+                  {"username": "2******3", "text": "没有"}
+                ]
+              },
+              {
+                "username": "2******3",
+                "rateTime": 1541001997,
+                "text": "这个地方适合养老",
+                "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png",
+                "good": "43",
+                "comment": [
+                  {"username": "3******c", "text": "我也觉得"},
+                  {"username": "6******h", "text": "一点都不好看"},
+                  {"username": "7******j", "text": "一般般吧，你说的太过了"}
+                ]
+              },
+              {
+                "username": "3******b",
+                "rateTime": 1541001997,
+                "text": "好舒服的地方",
+                "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png",
+                "good": "1",
+                "comment": []
+              },
+              {
+                "username": "3******c",
+                "rateTime": 1541001997,
+                "rateType": 1,
+                "text": "一般般吧",
+                "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png",
+                "good": "1",
+                "comment": [
+                  {"username": "2******3", "text": "赞同"}
+                ]
+              },
+              {
+                "username": "2******3",
+                "rateTime": 1469271264000,
+                "text": "很一般啊",
+                "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png",
+                "good": "6",
+                "comment": []
+              },
+              {
+                "username": "3******b",
+                "rateTime": 1469261964000,
+                "text": "还好还好，没有毁经典",
+                "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png",
+                "good": "10",
+                "comment": []
+              }
+            ]
+          },
+          {
+            "id": 4,
+            "name": "浴血十四年·首播",
+            "description": "硬汉刘小峰掀上海滩风云",
+            "updateEP": "更新至6集",
+            "score": "6.5",
+            "pic": "http://wapx.cmvideo.cn:8080/publish/clt/image/70/487/316.jpg",
+            "videoUrl": "http://upos-hz-mirrorcos.acgvideo.com/upgcxcode/96/45/61844596/61844596-1-6.mp4?um_deadline=1541327300&platform=html5&rate=49300&oi=3748151123&um_sign=88fb99308a93d4d03d24fcc843f6078e&gen=playurl&os=cos&trid=e2563b9568b94646a83493123dc016a5",
+            "detail": "九一八事变后，上海药材商人项青松私下组织募捐，支援东北抗日义勇军，其子项彬礼瞒着父亲也偷偷参加抗日活动。一二八事变爆发后上海陷入混乱，项家遭受大难，项彬礼加入东北抗日义勇军，后因上级投降，项彬礼投奔共产党领导的抗联，上级决定让项彬礼回上海建立地下交通线，为抗战武装提供物资药品等。淞沪会战爆发后，项彬礼加入新四军二支队，在华中开辟根据地，开展游击战，简称“江抗大队”，夜袭浒墅关车站，全歼日军护路警备队。上海派遣军参谋部特调山口一雄担任无锡警备大队长，对付江抗。经过两年艰难转战，双方在各个战线上搏杀，互有胜负。1941年，经历皖南事变的江抗大队重返华中根据地，新四军军部对其整编后建华中独立支队，派项彬礼担任支队长，为打破日伪的“清乡”、“屯垦”计划，不断与敌作战，最终迎来1945年抗战胜利。",
+            "playTimes": "3453.6",
+            "recommend": [
+              {"playName":"反贪风暴3", "score": "8.8", "playImg": "http://wapx.cmvideo.cn:8080/publish/poms/image/5500/449/310/201810260001_0829173219_V23_720.webp"},
+              {"playName":"浴血十四年", "score": "6.5 ", "playImg": "http://wapx.cmvideo.cn:8080/publish/poms/image/5500/643/998/201810251128_3_V23_720.webp"},
+              {"playName":"你迟到的许多年", "score": "6.8", "playImg": "http://wapx.cmvideo.cn:8080/publish/poms/image/5500/613/585/201810212239_1_V23_720.webp"},
+              {"playName":"镰仓物语", "score": "9.2", "playImg": "http://wapx.cmvideo.cn:8080/publish/poms/image/5500/443/876/201810190001_lcwy_V23_720.webp"},
+              {"playName":"幕后玩家", "score": "7.8 ", "playImg": "http://wapx.cmvideo.cn:8080/publish/poms/image/5500/360/626/201808012227_mhwj_V23_720.webp"},
+              {"playName":"第一夫人", "score": "7.9 ", "playImg": "http://wapx.cmvideo.cn:8080/publish/poms/image/5500/087/516/201808301541_dyfr_V23_720.webp"}
+            ],
+            "ratings": [
+              {
+                "username": "3******c",
+                "rateTime": 1469281964000,
+                "text": "鹿园好漂亮啊",
+                "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png",
+                "good": "3",
+                "comment": [
+                  {"username": "2******3", "text": "没有"}
+                ]
+              },
+              {
+                "username": "2******3",
+                "rateTime": 1469271264000,
+                "text": "这个地方适合养老",
+                "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png",
+                "good": "43",
+                "comment": [
+                  {"username": "3******c", "text": "我也觉得"},
+                  {"username": "6******h", "text": "一点都不好看"},
+                  {"username": "7******j", "text": "一般般吧，你说的太过了"}
+                ]
+              },
+              {
+                "username": "3******b",
+                "rateTime": 1469261964000,
+                "text": "好舒服的地方",
+                "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png",
+                "good": "1",
+                "comment": []
+              },
+              {
+                "username": "3******c",
+                "rateTime": 1469281964000,
+                "rateType": 1,
+                "text": "一般般吧",
+                "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png",
+                "good": "1",
+                "comment": [
+                  {"username": "2******3", "text": "赞同"}
+                ]
+              },
+              {
+                "username": "2******3",
+                "rateTime": 1469271264000,
+                "text": "很一般啊",
+                "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png",
+                "good": "6",
+                "comment": []
+              },
+              {
+                "username": "3******b",
+                "rateTime": 1469261964000,
+                "text": "还好还好，没有毁经典",
+                "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png",
+                "good": "10",
+                "comment": []
+              }
+            ]
+          },
+          { "id": 5,
+            "name": "藏北秘岭·重返无人区",
+            "description": "全剧组签生死状闯凶险无人区",
+            "score": "9.0",
+            "tip": "VIP",
+            "pic": "http://wapx.cmvideo.cn:8080/publish/clt/image/70/487/318.jpg",
+            "videoUrl": "http://upos-hz-mirrorcos.acgvideo.com/upgcxcode/96/45/61844596/61844596-1-6.mp4?um_deadline=1541327300&platform=html5&rate=49300&oi=3748151123&um_sign=88fb99308a93d4d03d24fcc843f6078e&gen=playurl&os=cos&trid=e2563b9568b94646a83493123dc016a5",
+            "detail": "在遥远西藏的北方，有一片被称为羌塘的神奇土地。雄伟的昆仑山和冈底斯山如同两条巨大的手臂，紧紧怀抱着这片60万平方公里的无人区。羌塘不仅是中国最大的无人区，也是中国最大、世界第二的自然保护区。 在无人区腹地耸立着巨大的普若岗日冰原，普若岗日冰原海拔高度在6000米至6800米之间，面积422平方公里，是世界上最大的中低纬度冰川，1999年首次被中美科学家联合考查时发现并被确认为世界上除南极、北极之外的第三大冰川。 制片人老蔡，曾经进入过羌塘无人区，计划带队首次完成人类电影组对普若岗日冰川主峰拍摄。21岁的女导演子君决心追寻父辈的足迹，加入队伍。车队在前往冰原主峰的过程中危机四伏、危险不断，但都没能阻止这群普通中国人的脚步。 在狼群的注视下，这一行人终于抵达了冰川东南侧的主峰脚下。海拔六千米的冰舌上，导演子君终于说出了自己耿耿于怀的往事，制片人老蔡同样情绪崩溃——在他的心中，同样有着抱憾的过往，和对这片古老土地的深远情怀。 每个人都有自己心底的无人区，都有一些难以启齿又无法解决的伤痛，无论是否执着于无人区和山野，每个人都应该给自己一个机会，一个与自己和解、与过往和解、与他人和解的机会。",
+            "playTimes": "3453.6",
+            "recommend": [
+              {"playName":"反贪风暴3", "score": "8.8", "playImg": "http://wapx.cmvideo.cn:8080/publish/poms/image/5500/449/310/201810260001_0829173219_V23_720.webp"},
+              {"playName":"浴血十四年", "score": "6.5 ", "playImg": "http://wapx.cmvideo.cn:8080/publish/poms/image/5500/643/998/201810251128_3_V23_720.webp"},
+              {"playName":"你迟到的许多年", "score": "6.8", "playImg": "http://wapx.cmvideo.cn:8080/publish/poms/image/5500/613/585/201810212239_1_V23_720.webp"},
+              {"playName":"镰仓物语", "score": "9.2", "playImg": "http://wapx.cmvideo.cn:8080/publish/poms/image/5500/443/876/201810190001_lcwy_V23_720.webp"},
+              {"playName":"幕后玩家", "score": "7.8 ", "playImg": "http://wapx.cmvideo.cn:8080/publish/poms/image/5500/360/626/201808012227_mhwj_V23_720.webp"},
+              {"playName":"第一夫人", "score": "7.9 ", "playImg": "http://wapx.cmvideo.cn:8080/publish/poms/image/5500/087/516/201808301541_dyfr_V23_720.webp"}
+            ],
+            "ratings": [
+              {
+                "username": "3******c",
+                "rateTime": 1469281964000,
+                "text": "鹿园好漂亮啊",
+                "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png",
+                "good": "3",
+                "comment": [
+                  {"username": "2******3", "text": "没有"}
+                ]
+              },
+              {
+                "username": "2******3",
+                "rateTime": 1469271264000,
+                "text": "这个地方适合养老",
+                "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png",
+                "good": "43",
+                "comment": [
+                  {"username": "3******c", "text": "我也觉得"},
+                  {"username": "6******h", "text": "一点都不好看"},
+                  {"username": "7******j", "text": "一般般吧，你说的太过了"}
+                ]
+              },
+              {
+                "username": "3******b",
+                "rateTime": 1469261964000,
+                "text": "好舒服的地方",
+                "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png",
+                "good": "1",
+                "comment": []
+              },
+              {
+                "username": "3******c",
+                "rateTime": 1469281964000,
+                "rateType": 1,
+                "text": "一般般吧",
+                "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png",
+                "good": "1",
+                "comment": [
+                  {"username": "2******3", "text": "赞同"}
+                ]
+              },
+              {
+                "username": "2******3",
+                "rateTime": 1469271264000,
+                "text": "很一般啊",
+                "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png",
+                "good": "6",
+                "comment": []
+              },
+              {
+                "username": "3******b",
+                "rateTime": 1469261964000,
+                "text": "还好还好，没有毁经典",
+                "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png",
+                "good": "10",
+                "comment": []
+              }
+            ]
+          },
+          { "id": 6,
+            "name": "妻子的浪漫旅行",
+            "description": "甜到发光！张杰高调表白娜娜",
+            "updateEP": "更新至10-24",
+            "score": "8.2",
+            "tip": "VIP",
+            "pic": "http://wapx.cmvideo.cn:8080/publish/clt/image/70/485/858.jpg",
+            "videoUrl": "http://upos-hz-mirrorcos.acgvideo.com/upgcxcode/96/45/61844596/61844596-1-6.mp4?um_deadline=1541327300&platform=html5&rate=49300&oi=3748151123&um_sign=88fb99308a93d4d03d24fcc843f6078e&gen=playurl&os=cos&trid=e2563b9568b94646a83493123dc016a5",
+            "detail": "《妻子的浪漫旅行》节目围绕四位男嘉宾他们的妻子展开，让妻子们度过一段无忧旅行，同时让四位丈夫在棚内观看，使夫妻间相互理解治愈。",
+            "playTimes": "3453.6",
+            "recommend": [
+              {"playName":"反贪风暴3", "score": "8.8", "playImg": "http://wapx.cmvideo.cn:8080/publish/poms/image/5500/449/310/201810260001_0829173219_V23_720.webp"},
+              {"playName":"浴血十四年", "score": "6.5 ", "playImg": "http://wapx.cmvideo.cn:8080/publish/poms/image/5500/643/998/201810251128_3_V23_720.webp"},
+              {"playName":"你迟到的许多年", "score": "6.8", "playImg": "http://wapx.cmvideo.cn:8080/publish/poms/image/5500/613/585/201810212239_1_V23_720.webp"},
+              {"playName":"镰仓物语", "score": "9.2", "playImg": "http://wapx.cmvideo.cn:8080/publish/poms/image/5500/443/876/201810190001_lcwy_V23_720.webp"},
+              {"playName":"幕后玩家", "score": "7.8 ", "playImg": "http://wapx.cmvideo.cn:8080/publish/poms/image/5500/360/626/201808012227_mhwj_V23_720.webp"},
+              {"playName":"第一夫人", "score": "7.9 ", "playImg": "http://wapx.cmvideo.cn:8080/publish/poms/image/5500/087/516/201808301541_dyfr_V23_720.webp"}
+            ],
+            "ratings": [
+              {
+                "username": "3******c",
+                "rateTime": 1469281964000,
+                "text": "鹿园好漂亮啊",
+                "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png",
+                "good": "3",
+                "comment": [
+                  {"username": "2******3", "text": "没有"}
+                ]
+              },
+              {
+                "username": "2******3",
+                "rateTime": 1469271264000,
+                "text": "这个地方适合养老",
+                "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png",
+                "good": "43",
+                "comment": [
+                  {"username": "3******c", "text": "我也觉得"},
+                  {"username": "6******h", "text": "一点都不好看"},
+                  {"username": "7******j", "text": "一般般吧，你说的太过了"}
+                ]
+              },
+              {
+                "username": "3******b",
+                "rateTime": 1469261964000,
+                "text": "好舒服的地方",
+                "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png",
+                "good": "1",
+                "comment": []
+              },
+              {
+                "username": "3******c",
+                "rateTime": 1469281964000,
+                "rateType": 1,
+                "text": "一般般吧",
+                "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png",
+                "good": "1",
+                "comment": [
+                  {"username": "2******3", "text": "赞同"}
+                ]
+              },
+              {
+                "username": "2******3",
+                "rateTime": 1469271264000,
+                "text": "很一般啊",
+                "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png",
+                "good": "6",
+                "comment": []
+              },
+              {
+                "username": "3******b",
+                "rateTime": 1469261964000,
+                "text": "还好还好，没有毁经典",
+                "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png",
+                "good": "10",
+                "comment": []
+              }
+            ]
+          },
+          { "id": 7,
+            "name": "正阳门下小女人",
+            "description": "宾馆开张 蒋雯丽成女企业家",
+            "score": "7.0",
+            "pic": "http://wapx.cmvideo.cn:8080/publish/clt/image/70/485/861.jpg"
+          },
+          { "id": 8,
+            "name": "你迟到的许多年",
+            "description": "殷桃起诉秦海璐 黄晓明求原谅",
+            "updateEP": "更新至43集",
+            "score": "7.2",
+            "tip": "VIP",
+            "pic": "http://wapx.cmvideo.cn:8080/publish/clt/image/70/485/863.jpg"
+          },
+          {
+            "id": 9,
+            "name": "镰仓物语·首播",
+            "description": "特摄技术呈现绝美黄泉之国",
+            "score": "8.2",
+            "tip": "VIP",
+            "pic": "http://wapx.cmvideo.cn:8080/publish/clt/image/70/480/263.jpg"
+          },
+          { "id": 10,
+            "name": "跨界喜剧王3",
+            "description": "宋晓峰成钢铁直男无视李念美色",
+            "updateEP": "更新至10-21",
+            "score": "8.2",
+            "pic": "http://wapx.cmvideo.cn:8080/publish/clt/image/70/485/866.jpg"
+          },
+          {
+            "id": 11,
+            "name": "巨齿鲨·首播",
+            "description": "惊！史上最大鲨鱼一口吞鲸鱼",
+            "score": "8.5",
+            "tip": "VIP",
+            "pic": "http://wapx.cmvideo.cn:8080/publish/clt/image/70/485/869.gif"
+          }
+        ]
+      },
+      {
+        "title": "即时热点",
+        "msg": [
+          {
+            "id": 0,
+            "name": "朱军律师遭媒体围堵",
+            "description": "女当事人现身受访：想赢",
+            "duration": "02:16",
+            "pic": "http://wapx.cmvideo.cn:8080/publish/clt/image/70/488/101.jpg"
+          },
+          {
+            "id": 1,
+            "name": "女子持刀砍伤14名儿童",
+            "description": "抓捕现场曝光目前无学生死亡",
+            "duration": "01:07",
+            "pic": "http://wapx.cmvideo.cn:8080/publish/clt/image/70/488/19.gif"
+          },
+          {
+            "id": 2,
+            "name": "男子醉驾还拒捕咬伤民警",
+            "description": "因妨害公务被处以刑事拘留",
+            "duration": "00:32",
+            "pic": "http://wapx.cmvideo.cn:8080/publish/clt/image/70/488/20.jpg"
+          },
+          {
+            "id": 3,
+            "name": "曝杨幂不出席唐嫣婚礼",
+            "description": "真闹掰了？回应：只因工作忙",
+            "duration": "00:43",
+            "pic": "http://wapx.cmvideo.cn:8080/publish/clt/image/70/488/22.jpg"
+          },
+          {
+            "id": 4,
+            "name": "180斤男子跌落8米高江岸",
+            "description": "佛山民警消防火速营救",
+            "duration": "01:25",
+            "pic": "http://wapx.cmvideo.cn:8080/publish/clt/image/70/488/24.jpg"
+          },
+          {
+            "id": 5,
+            "name": "15秒出拳22次！",
+            "description": "父亲暴打涉嫌侵犯女儿的老师",
+            "duration": "00:27",
+            "pic": "http://wapx.cmvideo.cn:8080/publish/clt/image/70/488/26.gif"
+          },
+          {
+            "id": 6,
+            "name": "南宁初中生持刀追砍同学",
+            "description": "学校不能开除 警方不能立案",
+            "duration": "00:34",
+            "pic": "http://wapx.cmvideo.cn:8080/publish/clt/image/70/488/27.jpg"
+          }
+        ]
+      },
+      {
+        "title": "体育精彩赛事",
+
+        "msg": [
+          {
+            "id": 0,
+            "name": "广东138-111四川",
+            "description": "易建联30+12周鹏14分",
+            "pic": "http://wapx.cmvideo.cn:8080/publish/clt/image/70/488/439.jpg"
+          },
+          {
+            "id": 1,
+            "name": "新疆101-97浙江",
+            "description": "亚当斯42+8阿不都14+10",
+            "pic": "http://wapx.cmvideo.cn:8080/publish/clt/image/70/488/443.jpg"
+          },
+          {
+            "id": 2,
+            "name": "切尔西3-1鲍里索夫",
+            "description": "奇克帽子戏法",
+            "duration": "00:32",
+            "pic": "http://wapx.cmvideo.cn:8080/publish/clt/image/70/486/994.jpg"
+          },
+          {
+            "id": 3,
+            "name": "葡萄牙体育0-1阿森纳",
+            "description": "维尔贝克打入制胜一球",
+            "duration": "00:43",
+            "pic": "http://wapx.cmvideo.cn:8080/publish/clt/image/70/486/988.jpg"
+          }
+        ]
+      },
+      {
+        "title": "加油好身材·首播开秀",
+        "msg": [
+          {
+            "id": 0,
+            "name": "Selina不顾疼痛坚持训练",
+            "description": "战斗力MAX！奋力追赶",
+            "duration": "01:35",
+            "pic": "http://wapx.cmvideo.cn:8080/publish/clt/image/70/487/858.jpg"
+          },
+          {
+            "id": 1,
+            "name": "女子持刀砍伤14名儿童",
+            "description": "抓捕现场曝光目前无学生死亡",
+            "duration": "01:07",
+            "pic": "http://wapx.cmvideo.cn:8080/publish/clt/image/70/488/19.gif"
+          },
+          {
+            "id": 2,
+            "name": "傲娇毒舌刚变身励志刚",
+            "description": "张绍刚立志为70后争脸",
+            "duration": "01:37",
+            "pic": "http://wapx.cmvideo.cn:8080/publish/clt/image/70/487/372.jpg"
+          },
+          {
+            "id": 3,
+            "name": "逸杰不满现状挑战极限",
+            "description": "训练太心急惹教练担心",
+            "duration": "01:30",
+            "pic": "http://wapx.cmvideo.cn:8080/publish/clt/image/70/484/721.jpg"
+          },
+          {
+            "id": 4,
+            "name": "Selina曝吴尊健身秘诀",
+            "description": "张逸杰拍戏忙推广碎片训练法",
+            "duration": "01:38",
+            "pic": "http://wapx.cmvideo.cn:8080/publish/clt/image/70/484/722.jpg"
+          }
+        ]
+      },
+      {
+        "title": "TVB专区",
+        "msg": [
+          {
+            "id": 0,
+            "name": "烈火雄心3",
+            "description": "黄宗泽改贪玩本性立志成消防员",
+            "updateEP": "32集全",
+            "score": "6.8 ",
+            "pic": "http://wapx.cmvideo.cn:8080/publish/clt/image/70/486/196.jpg"
+          },
+          {
+            "id": 1,
+            "name": "飞虎2",
+            "description": "飞虎队再出击霸气迎接新挑战",
+            "updateEP": "10集全",
+            "score": "8.0 ",
+            "pic": "http://wapx.cmvideo.cn:8080/publish/clt/image/70/486/199.gif"
+          },
+          {
+            "id": 2,
+            "name": "铁马战车",
+            "description": "新晋督察施马与下属南辕北辙",
+            "updateEP": "20集全",
+            "score": "7.5 ",
+            "pic": "http://wapx.cmvideo.cn:8080/publish/clt/image/70/486/203.jpg"
+          },
+          {
+            "id": 3,
+            "name": "法证先锋",
+            "description": "钟嘉欣初出茅庐林文龙耐心教导",
+            "updateEP": "25集全",
+            "score": "8.2 ",
+            "pic": "http://wapx.cmvideo.cn:8080/publish/clt/image/70/486/205.jpg"
+          },
+          {
+            "id": 4,
+            "name": "飞上云霄2",
+            "description": "张智霖帅气机长上演制服诱惑",
+            "updateEP": "43集全",
+            "score": "8.8 ",
+            "pic": "http://wapx.cmvideo.cn:8080/publish/clt/image/70/486/206.jpg"
+          },
+          {
+            "id": 5,
+            "name": "阿爷厨房\t\t",
+            "description": "阿爷教你几道美味怀旧粤菜",
+            "updateEP": "更新至03-29",
+            "score": "9.2 ",
+            "pic": "http://wapx.cmvideo.cn:8080/publish/clt/image/70/486/207.jpg"
+          }
+        ]
+      },
+      {
+        "title": "电影",
+        "msg": [
+          {
+            "id": 0,
+            "name": "莫斯科陷落",
+            "description": "战斗民族大战外星人",
+            "score": "7.2 ",
+            "tip": "VIP",
+            "pic": "http://wapx.cmvideo.cn:8080/publish/poms/image/5500/399/444/201808081051_msk_H32_720.webp"
+          },
+          {
+            "id": 1,
+            "name": "黄金兄弟",
+            "description": "古惑仔20年重聚",
+            "score": "8.1 ",
+            "tip": "VIP",
+            "pic": "http://wapx.cmvideo.cn:8080/publish/poms/image/5500/641/536/201810261650_hjxd_H32_720.webp"
+          },
+          {
+            "id": 2,
+            "name": "摩天营救",
+            "description": "高空火海孤胆救援",
+            "score": "7.5 ",
+            "tip" :"VIP",
+            "pic": "http://wapx.cmvideo.cn:8080/publish/poms/image/5500/376/546/201810200001_mtyj_H32_720.webp"
+          },
+          {
+            "id": 3,
+            "name": "解忧杂货店",
+            "description": "大哥成龙催泪解忧",
+            "tip": "VIP",
+            "score": "7.8 ",
+            "pic": "http://wapx.cmvideo.cn:8080/publish/poms/image/5500/326/647/201808022012_1111_H32_720.webp"
+          },
+          {
+            "id": 4,
+            "name": "第一夫人",
+            "description": "总统夫人秘密往事",
+            "score": "7.9 ",
+            "pic": "http://wapx.cmvideo.cn:8080/publish/poms/image/5500/087/516/201808301541_dyfr_H32_720.webp"
+          },
+          {
+            "id": 5,
+            "name": "幕后玩家",
+            "description": "徐峥深陷连环案中案",
+            "updateEP": "更新至03-29",
+            "score": "9.2 ",
+            "pic": "http://wapx.cmvideo.cn:8080/publish/poms/image/5500/360/626/201808012227_mhwj_H32_720.webp"
+          }
+        ]
+      },
+      {
+        "title": "同步剧场",
+        "msg": [
+          {
+            "id": 0,
+            "name": "你迟到的许多年",
+            "description": "黄晓明激情创业史",
+            "updateEP": "更新至43集",
+            "score": "7.2 ",
+            "tip": "VIP",
+            "pic": "http://wapx.cmvideo.cn:8080/publish/poms/image/5500/613/585/201810212239_2_H32_720.webp"
+          },
+          {
+            "id": 1,
+            "name": "决胜",
+            "description": "王千源智斗吴刚",
+            "updateEP": "更新至9集",
+            "score": "8.2 ",
+            "tip": "VIP",
+            "pic": "http://wapx.cmvideo.cn:8080/publish/poms/image/5500/643/991/201810251104_2_H32_720.webp"
+          },
+          {
+            "id": 2,
+            "name": "浴血十四年",
+            "description": "刘小锋浴血抗战",
+            "updateEP": "更新至6集",
+            "score": "6.5 ",
+            "pic": "http://wapx.cmvideo.cn:8080/publish/poms/image/5500/643/998/201810251128_287_H32_720.webp"
+          },
+          {
+            "id": 3,
+            "name": "长城红",
+            "description": "草根英雄殊死一战",
+            "updateEP": "更新至33集",
+            "score": "7.2 ",
+            "pic": "http://wapx.cmvideo.cn:8080/publish/poms/image/5500/633/427/201810151449_5555_H32_720.webp"
+          },
+          {
+            "id": 4,
+            "name": "永远一家人",
+            "description": "保剑锋情牵王艳",
+            "updateEP": "更新至14集",
+            "score": "6.8 ",
+            "pic": "http://wapx.cmvideo.cn:8080/publish/poms/image/5500/639/876/201810231057_169_H32_720.webp"
+          },
+          {
+            "id": 5,
+            "name": "如若巴黎不快乐",
+            "description": "张翰为爱甘抛事业",
+            "updateEP": "更新至30集",
+            "score": "7.5 ",
+            "pic": "http://wapx.cmvideo.cn:8080/publish/poms/image/5500/602/815/201810241820_1_H32_720.webp"
+          }
+        ]
+      }
+    ]
+  },
+  "sports": {
+    "type":1,
+    "title": [
+      "精选", "赛程", "CBA", "英超", "中超", "欧冠", "欧联", "意甲", "西甲", "法甲", "德甲", "国际足球", "中国足球", "篮球", "综合", "世界杯"
+    ],
+    "banner": [
+      {
+        "type":4,
+        "title": "贝嫂一家万圣节装扮 小七双马尾萌萌可爱",
+        "imgSrc": "http://wapx.cmvideo.cn:8080/publish/clt/image/70/496/26.jpg"
+      },
+      {
+        "type":0,
+        "title": "19:25直播CBA第6轮 江苏VS广东",
+        "imgSrc": "http://wapx.cmvideo.cn:8080/publish/clt/image/70/496/952.jpg"
+      },
+      {
+        "type":1,
+        "title": "19:25直播CBA第6轮 深圳VS新疆",
+        "imgSrc": "http://wapx.cmvideo.cn:8080/publish/clt/image/70/496/947.jpg"
+      },
+      {
+        "type":2,
+        "title": "19:35直播中超第28轮：权健VS国安",
+        "imgSrc": "http://wapx.cmvideo.cn:8080/publish/clt/image/70/497/254.jpg"
+      },
+      {
+        "type":3,
+        "title": "C罗伊布霸榜！足坛20大经典后脚跟破门",
+        "imgSrc": "http://wapx.cmvideo.cn:8080/publish/clt/image/70/496/461.jpg"
+      },
+      {
+        "type":4,
+        "title": "贝嫂一家万圣节装扮 小七双马尾萌萌可爱",
+        "imgSrc": "http://wapx.cmvideo.cn:8080/publish/clt/image/70/496/26.jpg"
+      },
+      {
+        "type":0,
+        "title": "19:25直播CBA第6轮 江苏VS广东",
+        "imgSrc": "http://wapx.cmvideo.cn:8080/publish/clt/image/70/496/952.jpg"
+      }
+    ],
+    "icon": [
+      {
+        "name":"CBA",
+        "advImg": "http://img.cmvideo.cn:8080/publish/noms/2018/09/11/64417.jpg"
+      },
+      {
+        "name":"中超",
+        "advImg": "http://img.cmvideo.cn:8080/publish/noms/2018/09/11/25278.jpg"
+      },
+      {
+        "name":"英超",
+        "advImg": "http://img.cmvideo.cn:8080/publish/noms/2018/09/11/69626.jpg"
+      },
+      {
+        "name":"欧冠",
+        "advImg": "http://img.cmvideo.cn:8080/publish/noms/2018/09/19/14112.jpg"
+      },
+      {
+        "name":"欧联",
+        "advImg": "http://img.cmvideo.cn:8080/publish/noms/2018/10/17/82588.jpg"
+      },
+      {
+        "name":"西甲",
+        "advImg": "http://img.cmvideo.cn:8080/publish/noms/2018/09/11/20861.png"
+      },
+      {
+        "name":"意甲",
+        "advImg": "http://img.cmvideo.cn:8080/publish/noms/2018/09/11/54106.jpg"
+      },
+      {
+        "name":"法甲",
+        "advImg": "http://img.cmvideo.cn:8080/publish/noms/2018/09/11/44094.jpg"
+      },
+      {
+        "name":"德甲",
+        "advImg": "http://img.cmvideo.cn:8080/publish/noms/2018/09/11/18297.jpg"
+      }
+    ],
+    "film": [
+      {
+        "title": "精彩体育赛事·大饱眼福",
+        "msg": [
+          {
+            "id": 0,
+            "name": "山东鲁能VS长春亚泰",
+            "description": "19:35直播中超第28轮",
+            "pic": "http://wapx.cmvideo.cn:8080/publish/clt/image/70/496/519.jpg"
+          },
+          {
+            "id": 1,
+            "name": "贵州恒丰VS广州富力",
+            "description": "19:35直播中超第28轮",
+            "pic": "http://wapx.cmvideo.cn:8080/publish/clt/image/70/496/515.jpg"
+          },
+          {
+            "id": 2,
+            "name": "天津权健VS北京国安",
+            "description": "19:35直播中超第28轮",
+            "pic": "http://wapx.cmvideo.cn:8080/publish/clt/image/70/496/513.jpg"
+          },
+          {
+            "id": 3,
+            "name": "浙江119-102辽宁",
+            "description": "邓蒙狂砍54+11",
+            "pic": "http://wapx.cmvideo.cn:8080/publish/clt/image/70/495/801.jpg"
+          },
+          {
+            "id": 4,
+            "name": "上海申花VS河南建业",
+            "description": "19:35直播中超第28轮",
+            "pic": "http://wapx.cmvideo.cn:8080/publish/clt/image/70/496/512.jpg"
+          },
+          { "id": 5,
+            "name": "福建108-92山东",
+            "description": "王哲林解禁14+11",
+            "pic": "http://wapx.cmvideo.cn:8080/publish/clt/image/70/495/802.jpg"
+          }
+        ]
+      }
+    ]
+  },
+  "vipData": {
+    "type": 2,
+    "search": "http://img.cmvideo.cn:8080/publish/noms/search_1@2x.png",
+    "shop": "http://img.cmvideo.cn:8080/publish/noms/store@2x.png",
+    "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png",
+    "title": [
+      "精选", "利器", "球手们第四季", "西部世界第二季", "电影", "电视剧", "综艺", "纪实", "动漫"
+    ],
+    "banner": [
+      {
+        "type":6,
+        "title": "艾米触发童年回忆 母亲亲手毒害妹妹？",
+        "imgSrc": "http://wapx.cmvideo.cn:8080/publish/clt/image/70/496/162.jpg"
+      },
+      {
+        "type":0,
+        "title": "首播·沈腾赞助北极挖洞 被逼花光十亿",
+        "imgSrc": "http://wapx.cmvideo.cn:8080/publish/clt/image/70/496/138.jpg"
+      },
+      {
+        "type":1,
+        "title": "收官·晓明哥迎娶殷桃 十年终成眷属",
+        "imgSrc": "http://wapx.cmvideo.cn:8080/publish/clt/image/70/491/807.jpg"
+      },
+      {
+        "type":2,
+        "title": "会员首月仅6元，半年包55折啦！速抢",
+        "imgSrc": "http://wapx.cmvideo.cn:8080/publish/clt/image/70/480/153.jpg"
+      },
+      {
+        "type":3,
+        "title": "浪漫恶作剧！颖儿程莉莎开心到飙泪",
+        "imgSrc": "http://wapx.cmvideo.cn:8080/publish/clt/image/70/496/152.jpg"
+      },
+      {
+        "type":4,
+        "title": "堺雅人勇赴黄泉上演寻妻捉妖记",
+        "imgSrc": "http://wapx.cmvideo.cn:8080/publish/clt/image/70/484/580.jpg"
+      },
+      {
+        "type":5,
+        "title": "惊喜福利 移动积分特惠兑钻石会员啦",
+        "imgSrc": "http://wapx.cmvideo.cn:8080/publish/clt/image/70/496/553.jpg"
+      },
+      {
+        "type":6,
+        "title": "艾米触发童年回忆 母亲亲手毒害妹妹？",
+        "imgSrc": "http://wapx.cmvideo.cn:8080/publish/clt/image/70/496/162.jpg"
+      },
+      {
+        "type":0,
+        "title": "首播·沈腾赞助北极挖洞 被逼花光十亿",
+        "imgSrc": "http://wapx.cmvideo.cn:8080/publish/clt/image/70/496/138.jpg"
+      }
+    ],
+    "welfare": [
+      "VIP首月6元啦， 半年包惊喜5.5折，速抢>",
+      "邀请好友免费送钻石体验会员，速领！"
+    ],
+    "film": [
+      {
+        "title": "重磅推荐",
+        "more" : "TVB海量剧库",
+        "msg": [
+          {
+            "id": 0,
+            "name": "黄金兄弟·首播",
+            "score": "8.1 ",
+            "tip": "VIP",
+            "pic": "http://wapx.cmvideo.cn:8080/publish/clt/image/70/496/180.jpg"
+          },
+          {
+            "id": 1,
+            "name": "决胜·会员抢先看6集",
+            "score": "8.2 ",
+            "pic": "http://wapx.cmvideo.cn:8080/publish/clt/image/70/491/818.jpg"
+          },
+          {
+            "id": 2,
+            "name": "明星大侦探4·首播",
+            "updateEP": "更新至10-27",
+            "tip": "VIP",
+            "pic": "http://wapx.cmvideo.cn:8080/publish/clt/image/70/496/196.jpg"
+          },
+          {
+            "id": 3,
+            "name": "可爱万岁·首播",
+            "duration": "03:11",
+            "pic": "http://wapx.cmvideo.cn:8080/publish/clt/image/70/496/208.jpg"
+          },
+          {
+            "id": 4,
+            "name": "浴血十四年·首播",
+            "updateEP": "更新至6集",
+            "score": "6.5",
+            "pic": "http://wapx.cmvideo.cn:8080/publish/clt/image/70/487/316.jpg"
+          }
+        ]
+      },
+      {
+        "title": "院线大片",
+        "msg": [
+          {
+            "id": 0,
+            "name": "巨齿鲨",
+            "score": "8.5 ",
+            "pic": "http://wapx.cmvideo.cn:8080/publish/clt/image/70/469/18.jpg"
+          },
+          {
+            "id": 1,
+            "name": "如若巴黎不快乐",
+            "score": "7.5 ",
+            "pic": "http://wapx.cmvideo.cn:8080/publish/clt/image/70/486/107.jpg"
+          },
+          {
+            "id": 2,
+            "name": "摩天营救·首播",
+            "score": "8.7 ",
+            "pic": "http://wapx.cmvideo.cn:8080/publish/clt/image/70/484/597.jpg"
+          },
+          {
+            "id": 3,
+            "name": "快乐大本营",
+            "updateEP": "更新至10-27",
+            "pic": "http://wapx.cmvideo.cn:8080/publish/clt/image/70/489/457.jpg"
+          }
+        ]
+      },
+      {
+        "title": "同步剧场",
+        "msg": [
+          {
+            "id": 0,
+            "name": "你迟到的许多年",
+            "description": "黄晓明激情创业史",
+            "updateEP": "更新至43集",
+            "score": "7.2 ",
+            "tip": "VIP",
+            "pic": "http://wapx.cmvideo.cn:8080/publish/poms/image/5500/613/585/201810212239_2_H32_720.webp"
+          },
+          {
+            "id": 1,
+            "name": "决胜",
+            "description": "王千源智斗吴刚",
+            "updateEP": "更新至9集",
+            "score": "8.2 ",
+            "tip": "VIP",
+            "pic": "http://wapx.cmvideo.cn:8080/publish/poms/image/5500/643/991/201810251104_2_H32_720.webp"
+          },
+          {
+            "id": 2,
+            "name": "浴血十四年",
+            "description": "刘小锋浴血抗战",
+            "updateEP": "更新至6集",
+            "score": "6.5 ",
+            "pic": "http://wapx.cmvideo.cn:8080/publish/poms/image/5500/643/998/201810251128_287_H32_720.webp"
+          },
+          {
+            "id": 3,
+            "name": "长城红",
+            "description": "草根英雄殊死一战",
+            "updateEP": "更新至33集",
+            "score": "7.2 ",
+            "pic": "http://wapx.cmvideo.cn:8080/publish/poms/image/5500/633/427/201810151449_5555_H32_720.webp"
+          },
+          {
+            "id": 4,
+            "name": "永远一家人",
+            "description": "保剑锋情牵王艳",
+            "updateEP": "更新至14集",
+            "score": "6.8 ",
+            "pic": "http://wapx.cmvideo.cn:8080/publish/poms/image/5500/639/876/201810231057_169_H32_720.webp"
+          },
+          {
+            "id": 5,
+            "name": "如若巴黎不快乐",
+            "description": "张翰为爱甘抛事业",
+            "updateEP": "更新至30集",
+            "score": "7.5 ",
+            "pic": "http://wapx.cmvideo.cn:8080/publish/poms/image/5500/602/815/201810241820_1_H32_720.webp"
+          }
+        ]
+      }
+    ]
+  },
+  "liveData": [
+    {
+      "name": "央视",
+      "dataList": [
+        {
+          "title": "CCTV1综合",
+          "nowPlaying": "新闻联播",
+          "startTime": "19:00",
+          "endTime": "19:40",
+          "pic": "http://wapx.cmvideo.cn:8080/publish/poms/image/2200/291/011/699004_HSJ720H.jpg"
+        },
+        {
+          "title": "CCTV1高清",
+          "nowPlaying": "新闻联播",
+          "startTime": "19:00",
+          "endTime": "19:40",
+          "pic": "http://wapx.cmvideo.cn:8080/publish/poms/image/2201/057/821/201801041057_C1HD_H32_720.webp"
+        },
+        {
+          "title": "CCTV3综艺",
+          "nowPlaying": "综艺喜乐汇",
+          "startTime": "17:59",
+          "endTime": "19:30",
+          "pic": "http://wapx.cmvideo.cn:8080/publish/poms/image/2200/291/045/699004_HSJ720H.jpg"
+        },
+        {
+          "title": "CCTV4中文国际",
+          "nowPlaying": "中国新闻",
+          "startTime": "19:00",
+          "endTime": "19:30",
+          "pic": "http://wapx.cmvideo.cn:8080/publish/poms/image/2202/208/882/201810100921_c4_H32_720.webp"
+        },
+        {
+          "title": "CCTV-5体育高清",
+          "nowPlaying": "篮球公园",
+          "startTime": "18:35",
+          "endTime": "19:30",
+          "pic": "http://wapx.cmvideo.cn:8080/publish/poms/image/5500/516/171/201806131032_C5HD_H32_720.webp"
+        },
+        {
+          "title": "CCTV5+体育赛事高清",
+          "nowPlaying": "世界体操锦标赛女子全能决赛",
+          "startTime": "18:00",
+          "endTime": "19:30",
+          "pic": "http://wapx.cmvideo.cn:8080/publish/poms/image/5500/516/288/201806131034_C5_HD_H32_720.webp"
+        },
+        {
+          "title": "CCTV1综合",
+          "nowPlaying": "新闻联播",
+          "startTime": "19:00",
+          "endTime": "19:40",
+          "pic": "http://wapx.cmvideo.cn:8080/publish/poms/image/2200/291/011/699004_HSJ720H.jpg"
+        },
+        {
+          "title": "CCTV6电影",
+          "nowPlaying": "寒战",
+          "startTime": "18:08",
+          "endTime": "20:15",
+          "pic": "http://wapx.cmvideo.cn:8080/publish/poms/image/2200/258/579/699004_HSJ720H.jpg"
+        },
+        {
+          "title": "CCTV8电视剧",
+          "nowPlaying": "二婶",
+          "startTime": "18:31",
+          "endTime": "19:27",
+          "pic": "http://wapx.cmvideo.cn:8080/publish/poms/image/2200/258/589/699004_HSJ720H.jpg"
+        },
+        {
+          "title": "CCTV9纪录",
+          "nowPlaying": "万象",
+          "startTime": "19:03",
+          "endTime": "20:05",
+          "pic": "http://wapx.cmvideo.cn:8080/publish/poms/image/2200/149/080/699004_HSJ720H.jpg"
+        },
+        {
+          "title": "CCTV10科教",
+          "nowPlaying": "我爱发明",
+          "startTime": "18:50",
+          "endTime": "19:48",
+          "pic": "http://wapx.cmvideo.cn:8080/publish/poms/image/2202/203/740/699004_HSJ720H.jpg"
+        },
+        {
+          "title": "CCTV11戏曲",
+          "nowPlaying": "锦绣梨园",
+          "startTime": "18:16",
+          "endTime": "19:30",
+          "pic": "http://wapx.cmvideo.cn:8080/publish/poms/image/2202/203/618/201809251656_699004_c11_H32_720.webp"
+        }
+
+      ]
+    },
+    {
+      "name": "卫视",
+      "dataList": [
+        {
+          "title": "湖南卫视高清",
+          "nowPlaying": "转播中央台新闻联播",
+          "startTime": "19:00",
+          "endTime": "19:34",
+          "pic": "http://wapx.cmvideo.cn:8080/publish/poms/image/2201/064/496/201801171119_hunanweishigaoqing_H32_720.webp"
+        },
+        {
+          "title": "江苏卫视",
+          "nowPlaying": "转播中央台新闻联播",
+          "startTime": "19:00",
+          "endTime": "19:34",
+          "pic": "http://wapx.cmvideo.cn:8080/publish/poms/image/5500/199/481/201801031750_170124802_H32_720.webp"
+        },
+        {
+          "title": "江苏卫视",
+          "nowPlaying": "转播中央台新闻联播",
+          "startTime": "19:00",
+          "endTime": "19:32",
+          "pic": "http://wapx.cmvideo.cn:8080/publish/poms/image/5500/199/481/201801031750_170124802_H32_720.webp"
+        },
+        {
+          "title": "东方卫视",
+          "nowPlaying": "转播中央台新闻联播",
+          "startTime": "19:00",
+          "endTime": "19:34",
+          "pic": "http://wapx.cmvideo.cn:8080/publish/poms/image/2201/004/968/699001_HSJ720H.jpg"
+        },
+        {
+          "title": "安徽卫视",
+          "nowPlaying": "转播中央台新闻联播",
+          "startTime": "19:00",
+          "endTime": "19:34",
+          "pic": "http://wapx.cmvideo.cn:8080/publish/poms/image/5500/333/689/699010_HSJ720H.jpg"
+        },
+        {
+          "title": "北京卫视",
+          "nowPlaying": "转播中央台新闻联播",
+          "startTime": "19:00",
+          "endTime": "19:33",
+          "pic": "http://wapx.cmvideo.cn:8080/publish/poms/image/5500/321/155/201807311638_111_H32_720.webp"
+        },
+        {
+          "title": "天津卫视高清",
+          "nowPlaying": "转播中央台新闻联播",
+          "startTime": "19:00",
+          "endTime": "19:34",
+          "pic": "http://wapx.cmvideo.cn:8080/publish/poms/image/5500/338/160/800033_HSJ720H.jpg"
+        },
+        {
+          "title": "广东卫视高清",
+          "nowPlaying": "转播中央台新闻联播",
+          "startTime": "19:00",
+          "endTime": "19:32",
+          "pics": "http://wapx.cmvideo.cn:8080/publish/poms/image/2202/428/795/201810241302_699054_gq_H32_720.webp"
+        },
+        {
+          "title": "四川卫视",
+          "nowPlaying": "转播中央新闻联播",
+          "startTime": "19:00",
+          "endTime": "19:34",
+          "pics":  "http://wapx.cmvideo.cn:8080/publish/poms/image/5500/321/161/800033_HSJ720H.jpg"
+          },
+        {
+          "name": "黑龙江卫视",
+          "nowPlaying": "转播中央台新闻联播",
+          "startTime": "19:00",
+          "endTime": "19:35",
+          "pics": "http://wapx.cmvideo.cn:8080/publish/poms/image/5500/321/169/800033_HSJ720H.jpg"
+          }
+      ]
+    },
+    {
+      "name": "影视",
+      "dataList": [
+        {
+          "title": "激情夜场影院",
+          "nowPlaying": "解忧杂货店",
+          "startTime": "18:18",
+          "endTime": "20:07",
+          "pic": "http://wapx.cmvideo.cn:8080/publish/poms/image/5500/231/753/201803021116_jqwy_H32_720.webp"
+          },
+        {
+          "title": "热剧联播",
+          "nowPlaying": "西游记15-车迟国斗法降三怪",
+          "startTime": "18:32",
+          "endTime": "19:33",
+          "pic": "http://wapx.cmvideo.cn:8080/publish/poms/image/5500/315/685/201809121451_sdmz_H32_720.webp"
+        },
+        {
+          "title": "高清大片",
+          "nowPlaying": "纹身师",
+          "startTime": "18:16",
+          "endTime": "19:42",
+          "pic": "http://wapx.cmvideo.cn:8080/publish/poms/image/5500/315/684/201809121451_gaoqingdapian_H32_720.webp"
+        },
+        {
+          "title": "军旅剧场",
+          "nowPlaying": "《特种兵之火凤凰》07",
+          "startTime": "18:48",
+          "endTime": "19:23",
+          "pic": "http://wapx.cmvideo.cn:8080/publish/poms/image/5500/241/266/201801031752_1_H32_720.webp"
+        },
+        {
+          "title": "红色谍战剧场",
+          "nowPlaying": "《东风破》第38集",
+          "startTime": "18:35",
+          "endTime": "19:21",
+          "pic": "http://wapx.cmvideo.cn:8080/publish/poms/image/5500/365/926/201807061853_hsdzjc_H32_720.webp"
+        },
+        {
+          "title": "周星驰影院",
+          "nowPlaying": "国产凌凌漆",
+          "startTime": "19:13",
+          "endTime": "20:36",
+          "pic": "http://wapx.cmvideo.cn:8080/publish/poms/image/5500/174/492/201803211359_06_H32_720.webp"
+        },
+        {
+          "title": "每日科幻电影",
+          "nowPlaying": "绝对控制（普通话）",
+          "startTime": "18:08",
+          "endTime": "19:42",
+          "pic": "http://wapx.cmvideo.cn:8080/publish/poms/image/5500/232/193/201807061853_icon3_H32_720.webp"
+        }
+      ]
+    },
+    {
+      "name": "少儿",
+      "dataList": []
+    },
+    {
+      "name": "新闻",
+      "dataList": []
+    },
+    {
+      "name": "纪录片",
+      "dataList": []
+    },
+    {
+      "name": "轮播台",
+      "dataList": []
+    },
+    {
+      "name": "地方台",
+      "dataList": []
+    },
+    {
+      "name": "特色台",
+      "dataList": []
+    },
+    {
+      "name": "体育",
+      "dataList": []
+    }
+  ]
+}
